@@ -1,0 +1,7 @@
+1. Qualidade do DAG / realismo
+2. initialize_graph function
+3. blacklist com root nodes influencia demasiado?
+4. Dar flex no DAG
+5. perguntar sobre a pipeline e sobre o quando criar o modelo e as suas ligacoes, antes ou depois do DAG
+6. Doencas sao vars latentes (binary)
+7. No ponto 4 apresentar todos os resultados
