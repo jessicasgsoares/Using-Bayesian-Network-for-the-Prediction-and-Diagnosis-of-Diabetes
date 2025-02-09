@@ -1,2 +1,2 @@
-# MSc-AdvancedMachineLearning-1
-First project for Advanced Machine Learning Class for my Data Science MSc
+# Using Bayesian Network for the Prediction and Diagnosis of Diabetes and Cardiovascular Diseases
+The goal is to construct a Bayesian Network by identifying the relationships between nodes, where each node represents a cardiovascular risk factor, based on the dataset's underlying patterns, analyzing the relationships between variables and to successfully classify 3 medical conditions: diabetes, hypercholesterolemia and hypertension.
